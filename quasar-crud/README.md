@@ -32,13 +32,13 @@ quasar build
 ```
 
 # Visão geral do projeto
-axios.js = arquivo aonde consta o endereço da API.
+**axios.js** = arquivo aonde consta o endereço da API.
 
-UseApi.js = arquivo aonde consta todas as requisições e funções do CRUD.
+**UseApi.js** = arquivo aonde consta todas as requisições e funções do CRUD.
 
-posts.js = funções que são utilizadas apenas pelo serviço de post e se precisar mudar o endereço da API, será feito apenas nesse arquivo, evitando assim mexer em vários arquivos.
+**posts.js** = funções que são utilizadas apenas pelo serviço de post e se precisar mudar o endereço da API, será feito apenas nesse arquivo, evitando assim mexer em vários arquivos.
 
-db.json = mock simulando uma API local.
+**db.json** = mock simulando uma API local.
 
 ### Customize the configuration
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
