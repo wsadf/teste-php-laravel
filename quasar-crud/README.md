@@ -2,7 +2,7 @@
 
 Um exemplo de um serviço "CRUD" construído com Vue JS 3 e Quasar Framework.
 
-# Entrar dentro da pasta/diretório quasar-crud e instalar/rodar o projeto.
+# Executar o projeto dentro da pasta quasar-crud.
 
 ## Install the dependencies
 ```bash
